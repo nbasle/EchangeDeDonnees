@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="hellops"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="lib" path="classes.old/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="classes.old/httpunit.jar"/>
+	<classpathentry kind="lib" path="classes.old/jaxen-1.1-beta-4.jar"/>
+	<classpathentry kind="lib" path="classes.old/js.jar"/>
+	<classpathentry kind="lib" path="classes.old/junit.jar"/>
+	<classpathentry kind="lib" path="classes.old/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="classes.old/nekohtml.jar"/>
+	<classpathentry kind="lib" path="classes.old/servlet.jar"/>
+	<classpathentry kind="lib" path="classes.old/servlet-api.jar"/>
+	<classpathentry kind="lib" path="classes.old/Tidy.jar"/>
+	<classpathentry kind="lib" path="classes.old/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="classes.old/xmlParserAPIs.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
